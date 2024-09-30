@@ -1,0 +1,73 @@
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    background-color: #7A0019;  /* Maroon */
+    padding: 20px;
+    text-align: center;
+    color: white;
+  }
+  
+  nav h1 {
+    font-size: 36px;
+    margin: 0;
+  }
+  
+  .hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    background-color: #C5B783;  /* Gold */
+  }
+  
+  .hero-content {
+    text-align: center;
+  }
+  
+  .hero h2 {
+    color: #7A0019;
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .hero-image {
+    width: 300px;
+    margin-top: 20px;
+  }
+  
+  .about {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .about h2 {
+    color: #7A0019;
+    font-size: 32px;
+  }
+  
+  .about p {
+    font-size: 18px;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  footer {
+    background-color: #7A0019;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+  }
